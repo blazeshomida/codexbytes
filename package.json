@@ -1,0 +1,8 @@
+{
+  "name": "codexbytes",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {
+    "turbo": "latest"
+  }
+}
